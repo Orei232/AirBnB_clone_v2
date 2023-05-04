@@ -45,4 +45,3 @@ def do_deploy(archive_path):
         f"/data/web_static/current")
 
     return True
-
